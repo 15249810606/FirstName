@@ -1,0 +1,6 @@
+1，项目名称：GitDriod
+项目讲解时间10天
+上午：面试题、第三方库、测试、web补丁包的内容
+下午：GitDroid：github客户端项目
+2.讲解的内容:
+GitDroid 主要讲解的内容：网络的请求方式Retrofit、数据库ORMLite，MVP的项目架构方式、教授登陆流程:github的登陆
